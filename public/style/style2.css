@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(245, 78, 78);
+    color: aliceblue;
+    font-size: 100px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
